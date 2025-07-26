@@ -9,16 +9,17 @@ body {
 
 .dialogbox {
   border: none;
-  border-radius: 10%;
-  padding: 10%;
+  border-radius: 7%;
+  padding: 27px;
   background-color: white;
   font-family: "Calibri";
   color: rgb(37, 45, 51);
   font-size: large;
   box-sizing: border-box;
+  display: block;
   max-width: 500px;
+  height: auto;
   margin: 0 auto;
-  width: 100%;
 }
 
 .dialogbox h2 {
